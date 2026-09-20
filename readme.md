@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This was just backwards porting a mod from 1.21.10 to 1.21.9 in **Minecraft**, its useless anyway since 1.21.10 mods are compatible.
+>
+> Therefore, **I have archived this**, and the real repo is at [squeeglii/SimpleVoiceChat-Wiretap](https://github.com/squeeglii/SimpleVoiceChat-Wiretap) at the time of writing this.
+
 # Wiretap
 
 A server-side Simple Voice Chat addon mod for Fabric, that adds a microphone and a speaker block.
